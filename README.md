@@ -1,4 +1,12 @@
 # Python 资源汇总
+## 流畅的 Python 第二版
+
+**第一章 数据模型**
+
+
+
+
+
 ## 精通Python自动化脚本-运维人员宝典
 
 **[第一章 Python脚本概述](https://alanhou.org/python-scripting-overview/)：**涵盖Python的安装流程以及Python解释器工具的使用。读者将学习到如何为变量赋值以及对变量和字符串的介绍。你还将学习到各有序、无序数据类型，包括列表（list）、元组（tuple）、集合（set）和字典（dictionary）。同时你还将学习到如何在脚本中解析命令行选项。
