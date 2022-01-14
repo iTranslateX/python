@@ -23,7 +23,7 @@
 
 * **[第七章 文本处理和正则表达式](https://alanhou.org/text-processing-regular-expressions/)**
 
-* **[第八章 文档和报告](https://alanhou.org/documentation-reporting/：**
+* **[第八章 文档和报告](https://alanhou.org/documentation-reporting/)**
 
 * **[第九章 操作各类文件](https://alanhou.org/working-files/)**
 
