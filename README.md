@@ -11,7 +11,7 @@
 
 * **[第一章 Python脚本概述](python-scripting/01.md)**
 
-* **[第二章 Python脚本调试和性能测试](https://alanhou.org/debugging-profiling-python-scripts/)**
+* **[第二章 Python脚本调试和性能测试](python-scripting/02.md)**
 
 * **[第三章 单元测试-单元测试框架的介绍](https://alanhou.org/unit-testing-introduction-unit-testing-framework/)：**
 
