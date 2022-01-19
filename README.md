@@ -13,7 +13,7 @@
 
 * **[第二章 Python脚本调试和性能测试](python-scripting/02.md)**
 
-* **[第三章 单元测试-单元测试框架的介绍](python-scripting/03.md)：**
+* **[第三章 单元测试-单元测试框架的介绍](python-scripting/03.md)**
 
 * **[第四章 自动化常规运维活动](https://alanhou.org/automating-regular-administrative-activities/)**
 
