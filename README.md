@@ -15,9 +15,9 @@
 
 * **[第三章 单元测试-单元测试框架的介绍](python-scripting/03.md)**
 
-* **[第四章 自动化常规运维活动](https://alanhou.org/automating-regular-administrative-activities/)**
+* **[第四章 自动化常规运维活动](python-scripting/04.md)**
 
-* **[第五章 文件、目录和数据处理](https://alanhou.org/handling-files-directories-data/)**
+* **[第五章 文件、目录和数据处理](python-scripting/05.md)**
 
 * **[第六章 文件存档、加密和解密](https://alanhou.org/file-archiving-encrypting-decrypting/)**
 
