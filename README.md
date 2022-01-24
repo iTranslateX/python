@@ -19,7 +19,7 @@
 
 * **[第五章 文件、目录和数据处理](python-scripting/05.md)**
 
-* **[第六章 文件存档、加密和解密](https://alanhou.org/file-archiving-encrypting-decrypting/)**
+* **[第六章 文件存档、加密和解密](python-scripting/06.md)**
 
 * **[第七章 文本处理和正则表达式](https://alanhou.org/text-processing-regular-expressions/)**
 
