@@ -21,7 +21,7 @@
 
 * **[第六章 文件存档、加密和解密](python-scripting/06.md)**
 
-* **[第七章 文本处理和正则表达式](https://alanhou.org/text-processing-regular-expressions/)**
+* **[第七章 文本处理和正则表达式](python-scripting/06.md)**
 
 * **[第八章 文档和报告](https://alanhou.org/documentation-reporting/)**
 
