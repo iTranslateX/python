@@ -25,7 +25,7 @@
 
 * **[第八章 文档和报告](python-scripting/08.md)**
 
-* **[第九章 操作各类文件](https://alanhou.org/working-files/)**
+* **[第九章 操作各类文件](python-scripting/09.md)**
 
 * **[第十章 网络基础 – Socket编程](https://alanhou.org/basic-networking-socket-programming)**
 
