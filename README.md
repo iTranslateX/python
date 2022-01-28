@@ -27,7 +27,7 @@
 
 * **[第九章 操作各类文件](python-scripting/09.md)**
 
-* **[第十章 网络基础 – Socket编程](https://alanhou.org/basic-networking-socket-programming)**
+* **[第十章 网络基础 – Socket编程](python-scripting/10.md)**
 
 * **[第十一章 使用Python脚本处理邮件](https://alanhou.org/handling-emails-python-scripting/)**
 
