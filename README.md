@@ -29,7 +29,7 @@
 
 * **[第十章 网络基础 – Socket编程](python-scripting/10.md)**
 
-* **[第十一章 使用Python脚本处理邮件](https://alanhou.org/handling-emails-python-scripting/)**
+* **[第十一章 使用Python脚本处理邮件](python-scripting/11.md)**
 
 * **[第十二章 使用Telnet和SSH远程监控主机](https://alanhou.org/remote-monitoring-hosts-telnet-ssh/)**
 
