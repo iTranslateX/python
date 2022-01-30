@@ -31,7 +31,7 @@
 
 * **[第十一章 使用Python脚本处理邮件](python-scripting/11.md)**
 
-* **[第十二章 使用Telnet和SSH远程监控主机](https://alanhou.org/remote-monitoring-hosts-telnet-ssh/)**
+* **[第十二章 使用Telnet和SSH远程监控主机](python-scripting/12.md)**
 
 * **[第十三章 创建图形化用户界面](https://alanhou.org/building-graphical-user-interfaces/)**
 
