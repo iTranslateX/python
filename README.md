@@ -33,7 +33,7 @@
 
 * **[第十二章 使用Telnet和SSH远程监控主机](python-scripting/12.md)**
 
-* **[第十三章 创建图形化用户界面](https://alanhou.org/building-graphical-user-interfaces/)**
+* **[第十三章 创建图形化用户界面](python-scripting/13.md)**
 
 * **[第十四章 处理Apache和其它的日志文件](https://alanhou.org/working-apache-log-files/)**
 
