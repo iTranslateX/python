@@ -35,7 +35,7 @@
 
 * **[第十三章 创建图形化用户界面](python-scripting/13.md)**
 
-* **[第十四章 处理Apache和其它的日志文件](https://alanhou.org/working-apache-log-files/)**
+* **[第十四章 处理Apache和其它的日志文件](python-scripting/14.md)**
 
 * **[第十五章 SOAP和REST API通讯](https://alanhou.org/soap-rest-api-communication/)**
 
