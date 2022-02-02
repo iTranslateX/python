@@ -37,7 +37,7 @@
 
 * **[第十四章 处理Apache和其它的日志文件](python-scripting/14.md)**
 
-* **[第十五章 SOAP和REST API通讯](https://alanhou.org/soap-rest-api-communication/)**
+* **[第十五章 SOAP和REST API通讯](python-scripting/15.md)**
 
 * **[第十六章 网络抓取 – 从网站上提取有用的信息](https://alanhou.org/web-scraping-extracting-data-websites)**
 
