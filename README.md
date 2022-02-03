@@ -39,7 +39,7 @@
 
 * **[第十五章 SOAP和REST API通讯](python-scripting/15.md)**
 
-* **[第十六章 网络抓取 – 从网站上提取有用的信息](https://alanhou.org/web-scraping-extracting-data-websites)**
+* **[第十六章 网络抓取 – 从网站上提取有用的信息](python-scripting/16.md)**
 
 * **[第十七章 数据收集及报表](https://alanhou.org/statistics-gathering-reporting/)**
 
