@@ -41,7 +41,7 @@
 
 * **[第十六章 网络抓取 – 从网站上提取有用的信息](python-scripting/16.md)**
 
-* **[第十七章 数据收集及报表](https://alanhou.org/statistics-gathering-reporting/)**
+* **[第十七章 数据收集及报表](python-scripting/17.md)**
 
 * **[第十八章 MySQL和SQLite数据库管理](https://alanhou.org/mysql-sqlite-database-administrations)**
 
