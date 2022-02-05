@@ -2,6 +2,7 @@
 ## 流畅的 Python 第二版
 
 * **[第一章 数据模型](fluent-python/01.md)**
+* **[第二章 数组序列](fluent-python/02.md)**
 
 
 
