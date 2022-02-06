@@ -44,5 +44,5 @@
 
 * **[第十七章 数据收集及报表](python-scripting/17.md)**
 
-* **[第十八章 MySQL和SQLite数据库管理](https://alanhou.org/mysql-sqlite-database-administrations)**
+* **[第十八章 MySQL和SQLite数据库管理](python-scripting/18.md)**
 
