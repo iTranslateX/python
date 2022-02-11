@@ -16,7 +16,7 @@
 
 * [**第4章 模板和JavaScript**](django3/04.md)：涵盖共同模板和JavaScript的实际示例。 这两者的组合如：用 渲染后的模板向用户展示信息、用JavaScript为现代站点中更丰富的用户体验提供关键性的提升。
 
-* [**第5章 自定义模板过滤器和标签**](https://alanhou.org/django3-custom-template-filters-tags/)：讲解如何创建及使用自己的模板过滤器和标签。可以看到，可以扩展默认的Django模板系统来满足模板开发者的需求。
+* [**第5章 自定义模板过滤器和标签**](django3/05.md)：讲解如何创建及使用自己的模板过滤器和标签。可以看到，可以扩展默认的Django模板系统来满足模板开发者的需求。
 
 * [**第6章 模型管理**](https://alanhou.org/django3-model-administration/)：探索默认的Django后台管理界面并引导读者扩展自己的功能。
 
