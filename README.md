@@ -18,7 +18,7 @@
 
 * [**第5章 自定义模板过滤器和标签**](django3/05.md)：讲解如何创建及使用自己的模板过滤器和标签。可以看到，可以扩展默认的Django模板系统来满足模板开发者的需求。
 
-* [**第6章 模型管理**](https://alanhou.org/django3-model-administration/)：探索默认的Django后台管理界面并引导读者扩展自己的功能。
+* [**第6章 模型管理**](django3/06.md)：探索默认的Django后台管理界面并引导读者扩展自己的功能。
 
 * [**第7章 安全和性能**](https://alanhou.org/django3-security-performance/)：深入讲解Django内部和外部的一些对项目进行安全保障和优化的方法。
 
