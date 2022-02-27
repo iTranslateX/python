@@ -1,3 +1,6 @@
 [submodule "odoo-cookbook"]
 	path = odoo-cookbook
 	url = https://github.com/iTranslateX/odoo-cookbook
+[submodule "odoo-essentials"]
+	path = odoo-essentials
+	url = https://github.com/iTranslateX/odoo-essentials
