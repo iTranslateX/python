@@ -3,6 +3,7 @@
 
 * **[第一章 数据模型](fluent-python/01.md)**
 * **[第二章 数组序列](fluent-python/02.md)**
+* **[第三章 字典和集合](fluent-python/03.md)**
 
 
 
