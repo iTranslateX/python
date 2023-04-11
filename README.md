@@ -3,6 +3,7 @@
 ## 机器学习之PyTorch和Scikit-Learn
 * **[第1章 赋予计算机学习数据的能力](machine-learning/01.md)**
 * **[第2章 为分类训练简单机器学习算法](machine-learning/02.md)**
+* **[第3章 使用Scikit-Learn的机器学习分类器之旅](machine-learning/03.md)**
 
 ## 流畅的 Python 第二版
 
