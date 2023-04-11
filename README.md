@@ -1,4 +1,8 @@
 # Python 资源汇总
+
+## 机器学习之PyTorch和Scikit-Learn
+* **[第1章 赋予计算机学习数据的能力](machine-learning/01.md)**
+
 ## 流畅的 Python 第二版
 
 * **[第一章 数据模型](fluent-python/01.md)**
