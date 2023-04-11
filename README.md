@@ -27,19 +27,19 @@
 
 * [**第6章 模型管理**](django3/06.md)：探索默认的Django后台管理界面并引导读者扩展自己的功能。
 
-* [**第7章 安全和性能**](https://alanhou.org/django3-security-performance/)：深入讲解Django内部和外部的一些对项目进行安全保障和优化的方法。
+* [**第7章 安全和性能**](django3/07.md)：深入讲解Django内部和外部的一些对项目进行安全保障和优化的方法。
 
-* [**第8章 层级结构**](https://alanhou.org/django3-hierarchical-structures/)： 讲解Django中树状结构的创建和操作，,以及在这些工作流中集成django-mptt或treebeard库的好处。本章展示如何使用这两个库来实现层级的展现和管理。
+* [**第8章 层级结构**](django3/08.md)： 讲解Django中树状结构的创建和操作，,以及在这些工作流中集成django-mptt或treebeard库的好处。本章展示如何使用这两个库来实现层级的展现和管理。
 
-* [**第9章 导入、导出数据**](https://alanhou.org/django3-importing-exporting-data/)： 讲解数据在不同格式间的转换，以及不同数据源之间的注意事项。本章中使用自定义管理命令来进行数据导入，利用sitemap、RSS和 REST API来进行数据导出。
+* [**第9章 导入、导出数据**](django3/09.md)： 讲解数据在不同格式间的转换，以及不同数据源之间的注意事项。本章中使用自定义管理命令来进行数据导入，利用sitemap、RSS和 REST API来进行数据导出。
 
-* [**第10章 锦上添花**](https://alanhou.org/django3-bells-whistles/)： 展示一些在日常网页开发和调试中很有用的其它代码段和技巧。
+* [**第10章 锦上添花**](django3/10.md)： 展示一些在日常网页开发和调试中很有用的其它代码段和技巧。
 
-* [**第11章 测试**](https://alanhou.org/django3-testing/)：介绍各种测试类型的不同，并提供一些如何测试项目代码的典型示例。
+* [**第11章 测试**](django3/11.md)：介绍各种测试类型的不同，并提供一些如何测试项目代码的典型示例。
 
-* [**第12章 部署**](https://alanhou.org/django3-deployment/)：将第三方应用部署到Python包索引（PyPI）并将Django项目部署到自有服务器上。
+* [**第12章 部署**](django3/12.md)：将第三方应用部署到Python包索引（PyPI）并将Django项目部署到自有服务器上。
 
-* [**第13章 维护**](https://alanhou.org/django3-maintenance/)：讲解如何创建数据库备份、为常规任务设置定时任务，以及为后续分析添加事件日志。
+* [**第13章 维护**](django3/13.md)：讲解如何创建数据库备份、为常规任务设置定时任务，以及为后续分析添加事件日志。
 
 ## 精通Python自动化脚本-运维人员宝典
 
@@ -79,3 +79,8 @@
 
 * **[第十八章 MySQL和SQLite数据库管理](python-scripting/18.md)**
 
+## 关于Alan Hou
+
+![Alan Hou微信公众号](https://alanhou.org/homepage/wp-content/uploads/2019/09/qrcode-alanhou.jpg)
+
+### [Alan Hou的个人博客](https://alanhou.org/)
